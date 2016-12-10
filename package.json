@@ -1,0 +1,21 @@
+{
+  "name": "algo-challenge",
+  "version": "1.0.0",
+  "description": "algorithm challenge with test suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test",
+    "dev": "gulp dev",
+    "local-serve": "gulp browser-sync"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^3.0.1",
+    "mocha": "^3.2.0",
+    "mochawesome": "^1.5.4"
+  }
+}
