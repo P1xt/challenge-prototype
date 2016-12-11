@@ -26,7 +26,7 @@ The "Big Picture" is creating a repository where:
 
 ### To run the tests, you'll need node.js, mocha, gulp and lite-server installed    
 
-* `npm intall`- once you've forked the repo and cloned your fork down to your PC    
+* `npm install`- once you've forked the repo and cloned your fork down to your PC    
 * `npm run-script dev` - to run tests and spool up a localhost showing the results
 * `npm run-script test` - to only run tests
 * `npm run-script local-serve` - to only spool up a localhost showing the results
